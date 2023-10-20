@@ -1,0 +1,2 @@
+# Vanilla_Neural_Network
+Implementation of a Feedforward Neural Network (FNN) and a backpropagation method to train the FNN. This projects has been fulfilled for educational purposes and inspired by micrograd (c) 2020 Andrej Karpathy https://github.com/karpathy/micrograd.
