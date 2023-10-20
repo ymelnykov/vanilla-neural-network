@@ -1,5 +1,5 @@
 """
-Implemet a feedforward neural network (FNN)
+Implement a feedforward neural network (FNN)
 with a backpropagation method to train it.
 """
 
